@@ -12,7 +12,7 @@
 <p align="center">I'm a passionate Computer Engineering Student enthusiastic about writing code, solving problems, and exploring the realms of web development.</p>
 
 <!-- Current Status -->
-<p align="center">🔭 I’m currently a Computer Engineering Student at [Your University Name/College Name].<br>
+<p align="center">🔭 I’m currently a Computer Engineering Student at Gujarat Technological University.<br>
 👯 I’m actively seeking a Web Development Internship opportunity.<br>
 📫 You can reach out to me via 
   <a href="https://www.linkedin.com/in/aryan-darji-428688254/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuMect29wTberd%2B90vhpnbg%3D%3D" target="_blank">
