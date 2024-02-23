@@ -9,7 +9,7 @@
 <p align="center">I'm a passionate Computer Engineering Student enthusiastic about writing code, solving problems, and exploring the realms of web development.</p>
 
 <!-- Current Status -->
-<p align="center">🔭 I’m currently a student pursuing my B.Tech in Computer Engineering at Gujarat Technological University.<br>
+<p align="center">🔭 I’m currently a student pursuing my Bachelor of Engineering '26 in Computer Engineering at Gujarat Technological University.<br>
 👯 I’m actively seeking a Web Development Internship opportunity.<br>
 📫 You can reach out to me via 
   <a href="https://www.linkedin.com/in/aryan-darji-428688254/" target="_blank">
