@@ -14,7 +14,15 @@
 <!-- Current Status -->
 <p align="center">🔭 I’m currently a Computer Engineering Student at [Your University Name/College Name].<br>
 👯 I’m actively seeking a Web Development Internship opportunity.<br>
-📫 You can reach out to me via [Linkedin](https://www.linkedin.com/in/aryan-darji-428688254/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuMect29wTberd%2B90vhpnbg%3D%3D) or [Gmail](mailto:aryandarji2005@gmail.com).</p>
+📫 You can reach out to me via 
+  <a href="https://www.linkedin.com/in/aryan-darji-428688254/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuMect29wTberd%2B90vhpnbg%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin">
+  </a>
+  &nbsp;
+  <a href="mailto:aryandarji2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail">
+  </a>
+</p>
 
 <!-- Technologies and Tools -->
 <h2 align="center">Technologies & Tools:</h2>
