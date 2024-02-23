@@ -1,6 +1,3 @@
-<!-- Hi there, I'm Aryan Darji 👋 -->
-
-<!-- Intro -->
 <h1 align="center">Hi there, I'm Aryan Darji 👋</h1>
 
 <!-- Profile Image -->
@@ -12,7 +9,7 @@
 <p align="center">I'm a passionate Computer Engineering Student enthusiastic about writing code, solving problems, and exploring the realms of web development.</p>
 
 <!-- Current Status -->
-<p align="center">🔭 I’m currently a Computer Engineering Student at [Your University Name/College Name].<br>
+<p align="center">🔭 I’m currently a student pursuing my B.Tech in Computer Engineering at Gujarat Technological University.<br>
 👯 I’m actively seeking a Web Development Internship opportunity.<br>
 📫 You can reach out to me via 
   <a href="https://www.linkedin.com/in/aryan-darji-428688254/" target="_blank">
@@ -49,7 +46,6 @@
 </p>
 
 <!-- Animated Gifs -->
-<!-- You can add more gifs or animations to make it lively -->
 <p align="center">
   <img width="45%" alt="Coding Gif" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
   <img width="45%" alt="Web Development Gif" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
