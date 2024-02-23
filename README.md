@@ -6,4 +6,4 @@ I'm a Computer Engineer Student Who is Passionate About Writing Code, Solving Pr
 
 - 🔭 I’m Currently a CE Student at .
 - 👯 I’m Looking for a Web Development Internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aryan-darji) [Gmail](mailto:'aryandarji2005@gmail.com')
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aryan-darji) [Gmail](mailto:aryandarji2005@gmail.com)
