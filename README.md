@@ -49,6 +49,7 @@
 <p align="center">
   <img width="45%" alt="Coding Gif" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
   <img width="45%" alt="Web Development Gif" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
+  <img width="45%" alt="Creative Coding Gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </p>
 
 <!-- Fun Fact -->
