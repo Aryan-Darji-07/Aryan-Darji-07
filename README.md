@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/CSS3-CSS3-blue?style=flat&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-JavaScript-yellow?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/Node.js-Node.js-green?style=flat&logo=node.js">
+  <img src="https://img.shields.io/badge/React-React-blue?style=flat&logo=react">
   <img src="https://img.shields.io/badge/MongoDB-MongoDB-green?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/JIRA-JIRA-blue?style=flat&logo=jira">
   <img src="https://img.shields.io/badge/Git-Git-red?style=flat&logo=git">
