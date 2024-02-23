@@ -11,11 +11,10 @@
 <!-- Current Status -->
 <p align="center">🔭 I’m currently a student pursuing my Bachelor of Engineering '26 in Computer Engineering at Gujarat Technological University.<br>
 👯 I’m actively seeking a Web Development Internship opportunity.<br>
-📫 You can reach out to me via 
+📫 You can reach out to me via <br>
   <a href="https://www.linkedin.com/in/aryan-darji-428688254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-  &nbsp;
+  </a><br>
   <a href="mailto:aryandarji2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail">
   </a>
