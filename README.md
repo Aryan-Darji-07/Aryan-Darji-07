@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/JavaScript-JavaScript-yellow?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/Node.js-Node.js-green?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/React-React-blue?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/Chart.js-Chart.js-blue?style=flat&logo=chart.js">
   <img src="https://img.shields.io/badge/Java-Java-yellow?style=flat&logo=java">
   <img src="https://img.shields.io/badge/SQL-SQL-blue?style=flat&logo=postgresql">
   <img src="https://img.shields.io/badge/MongoDB-MongoDB-green?style=flat&logo=mongodb">
@@ -36,11 +35,6 @@
   <img src="https://img.shields.io/badge/Figma-Figma-purple?style=flat&logo=figma">
   <img src="https://img.shields.io/badge/Photoshop-Photoshop-blue?style=flat&logo=adobe-photoshop">
   <img src="https://img.shields.io/badge/Git-Git-red?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/Visual Studio-Visual Studio-blue?style=flat&logo=visual-studio">
-  <img src="https://img.shields.io/badge/JIRA-JIRA-blue?style=flat&logo=jira">
-  <img src="https://img.shields.io/badge/Replit-Replit-yellow?style=flat&logo=replit">
-  <img src="https://img.shields.io/badge/Webflow-Webflow-orange?style=flat&logo=webflow">
-  <img src="https://img.shields.io/badge/Framer-Framer-green?style=flat&logo=framer">
 </p>
 
 <!-- Animated Gifs -->
