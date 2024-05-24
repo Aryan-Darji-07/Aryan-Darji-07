@@ -20,8 +20,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="50%">
 </p>
 
-![](https://komarev.com/ghpvc/?username=aryandarji&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -67,6 +65,12 @@ You can click the Preview link to take a look at your changes.
   <a href="https://framer.com/" target="_blank">
     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="framer"/>
   </a>
+</p>
+
+<h3 align="center">Profile Views:</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryandarji&color=blue&style=plastic&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 <h3 align="center">Fun Fact:</h3>
