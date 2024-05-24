@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
 
 
-
+<br><br>
 <h3 align="center">: Connect with me :</h3>
 
 <div align="center">
@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="50%">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<br><br>
+
+<h3 align="center">: Languages and Tools :</h3>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -68,8 +70,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<br><br>
 
-<h3 align="center">Fun Fact:</h3>
+<h3 align="center">: Fun Fact :</h3>
 <p align="center">I can speak four languages fluently: English, Hindi, Gujarati, and JavaScript! 😉</p>
 
 <h4 align="center">Thanks for visiting! Let's connect and collaborate on some exciting projects!</h4>
