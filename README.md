@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
 
 
-<br><br>
+<br>
 <h3 align="center">: Connect with me :</h3>
 
 <div align="center">
@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="50%">
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center">: Languages and Tools :</h3>
 
