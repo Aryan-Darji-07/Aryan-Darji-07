@@ -63,8 +63,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <img width="40%" alt="Coding Gif" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-  <img width="40%" alt="Web Development Gif" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
+  <img width="45%" alt="Coding Gif" src="https://media.giphy.com/media/1n7YdOb0VHhKq/giphy.gif">
+  <img width="45%" alt="Web Development Gif" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif">
 </p>
 
 <h3 align="center">Fun Fact:</h3>
