@@ -3,8 +3,15 @@ aryandarji/aryandarji is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
+<div style="position: relative;">
+  <div style="position: absolute; top: 0; left: 0; width: 40%;">
+    <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position: absolute; border: none;" allowFullScreen></iframe>
+  </div>
+  <div style="position: absolute; top: 0; right: 0; width: 60%; text-align: right; padding-top: 20px;">
+    <h1>Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+    <h3>Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
+  </div>
+</div>
 
 <h3 align="center">: Connect with me :</h3>
 
