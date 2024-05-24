@@ -3,12 +3,8 @@ aryandarji/aryandarji is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Computer Engineering Student from India</h3>
-
-- ✨ I’m currently pursuing my Bachelor of Engineering '26 in Computer Engineering at **Gujarat Technological University**
-
-- 👯 I’m actively seeking a **Web Development Internship**
+<h1 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
 
 <h3 align="center">Connect with me:</h3>
 
