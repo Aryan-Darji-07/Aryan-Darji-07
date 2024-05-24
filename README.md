@@ -3,8 +3,8 @@ aryandarji/aryandarji is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
+<h3 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+<h4 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h4>
 
 
 <br>
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center">: Fun Fact :</h3>
 <p align="center">I can speak four languages fluently: English, Hindi, Gujarati, and JavaScript! 😉</p>
