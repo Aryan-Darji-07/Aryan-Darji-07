@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">: Connect with me :</h3>
 
 <div align="center">
 
@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandarji2005@gmail.com)
 
 </br>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryandarji&theme=merko)
 
 ![](https://komarev.com/ghpvc/?username=aryandarji&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
 </div>
