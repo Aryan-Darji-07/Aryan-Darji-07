@@ -3,11 +3,8 @@ aryandarji/aryandarji is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 40%;">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width: 100%;" alt="GIF">
-  </div>
-  <div style="width: 60%; text-align: right; padding-left: 20px;">
+<div style="display: flex;">
+  <div style="width: 100%;">
     <h1>Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
     <h3>Crafting digital wonders in the realm of Computer Engineering 🚀</h3>
   </div>
