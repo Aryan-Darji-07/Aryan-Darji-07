@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="50%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="65%">
 </p>
 
 <br>
