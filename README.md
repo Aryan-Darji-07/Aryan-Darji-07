@@ -1,7 +1,3 @@
-<!---
-aryandarji/aryandarji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h3 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 <h4 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h4>
