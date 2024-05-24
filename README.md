@@ -6,6 +6,11 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 <h4 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h4>
 
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="65%">
+</p>
 
 <br>
 <h3 align="center">: Connect with me :</h3>
@@ -19,11 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" width="65%">
-</p>
-
-<br>
 
 <h3 align="center">: Languages and Tools :</h3>
 
