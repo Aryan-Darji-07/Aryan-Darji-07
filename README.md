@@ -1,4 +1,3 @@
-
 <h3 align="center">Greetings! I'm Aryan Darji <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 <h4 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h4>
 
@@ -20,7 +19,6 @@
 
 <br>
 
-
 <h3 align="center">: Languages and Tools :</h3>
 
 <p align="center">
@@ -38,6 +36,12 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react-native"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
