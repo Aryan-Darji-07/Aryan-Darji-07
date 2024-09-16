@@ -74,7 +74,6 @@
 
 <br>
 
-<h3 align="center">: Fun Fact :</h3>
-<p align="center">I can speak four languages fluently: English, Hindi, Gujarati, and JavaScript! 😉</p>
+
 
 <h4 align="center">Thanks for visiting! Let's connect and collaborate on some exciting projects!</h4>
