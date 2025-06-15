@@ -54,7 +54,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   &nbsp;
-  <img src="https://www.svgrepo.com/show/445780/framer.svg" height="40" alt="Framer"/>
+  <img src="https://www.svgviewer.dev/static-svgs/401648/framer.svg" height="40" alt="Framer"/>
 &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="Webflow"/>
 
