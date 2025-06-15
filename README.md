@@ -15,7 +15,7 @@
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-darji-428688254/" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://www.svgrepo.com/show/445780/framer.svg)" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:aryandarji2005@gmail.com" target="_blank">
@@ -54,15 +54,9 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   &nbsp;
-  <!-- Framer Icon -->
-<a href="https://framer.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="40" alt="Framer"/>
-</a>
-
-<!-- Webflow Icon -->
-<a href="https://webflow.com/" target="_blank">
+  <img src="https://www.svgrepo.com/show/445780/framer.svg" height="40" alt="Framer"/>
+&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="Webflow"/>
-</a>
 
 </p>
 
