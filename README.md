@@ -54,9 +54,16 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   &nbsp;
-  <img src="https://assets.website-files.com/5f64c5d5b3400c79882d4aa0/60e4496bd78c8111d042e167_webflow-icon.png" height="40" alt="Webflow"/>
-  &nbsp;
-  <img src="https://seeklogo.com/images/F/framer-logo-B9347656E7-seeklogo.com.png" height="40" alt="Framer"/>
+  <!-- Framer Icon -->
+<a href="https://framer.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="40" alt="Framer"/>
+</a>
+
+<!-- Webflow Icon -->
+<a href="https://webflow.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="Webflow"/>
+</a>
+
 </p>
 
 <br>
